@@ -6,4 +6,4 @@
 #
 ![](face.png)
 
-## I have not uploaded the trainied model's weights here . Kindly mail me at sagarkarki136@gmail.com for the files and I will send them to you
+### I have not uploaded the trained model's weights here . Kindly mail me at sagarkarki136@gmail.com for the files and I will send them to you
